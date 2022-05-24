@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads AdobeReaderDC</string>
 	<key>Identifier</key>
-	<string>com.hcs.jss-upload.AdobeReaderDC</string>
+	<string>com.github.autopkg.pkg.AdobeReaderDC</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
